@@ -1,0 +1,18 @@
+﻿body {
+    font: "trebucket ms", verdana,sans-serif;
+    background-color: #f7f1f1 ;
+    color: #696969;
+}
+h1 {
+    color: #f00;
+}
+h2 {
+    border-bottom: 3px solid #cc9900;
+    font: Georgia,serif;
+    color: #00ff90;
+}
+#main {
+    padding: 20px;
+    background-color: #0026ff;
+    border-radius: 0px 4px 4px 0px;
+}
